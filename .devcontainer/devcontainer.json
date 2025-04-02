@@ -5,8 +5,12 @@
     ],
     "portsAttributes": {
       "8080": {
+        "label": "show website",
         "onAutoForward": "openBrowser",
         "elevateIfNeeded": true
       }
+    },
+    "features": {
+        "ghcr.io/devcontainers-extra/features/surge-cli:1": {}
     }
   }
