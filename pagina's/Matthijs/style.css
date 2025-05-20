@@ -1,0 +1,8 @@
+body {
+    background-image: url(Dodge\ challenger.jpg);
+    color:rgb(255, 255, 255);
+    margin: 1rem;
+    padding: 1rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
